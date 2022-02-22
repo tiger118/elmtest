@@ -41,7 +41,7 @@ decode (field PublishedAt string |> asTimePosix) rawValue
 
 # Task
 
-Implement the missing code in `src/Decoder.elm` such that the tests in `tests/DecoderTest.elm` passes.
+Implement the missing code in `Decoder.elm` such that the tests in `DecoderTest.elm` passes.
 You may make necessary changes to the test code to fit your function type signatures.
 
 If there's an error in our test, please let us know!
